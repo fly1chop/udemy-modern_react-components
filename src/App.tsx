@@ -1,5 +1,7 @@
+import AccordionPage from './pages/AccordionPage';
+
 function App() {
-  return <div>App</div>;
+  return <AccordionPage />;
 }
 
 export default App;
